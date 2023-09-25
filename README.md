@@ -1,6 +1,9 @@
-# YouTube Downloader - Descargador de YouTube
+# YouTube Downloader
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+![yt-dlp](https://img.shields.io/badge/Powered%20by-yt--dlp-red)
+![PyInstaller](https://img.shields.io/badge/Built%20with-PyInstaller-success)
+![Python](https://img.shields.io/badge/Python-3.8%20%7C%203.9%20%7C%203.10-blue)
 
 ## English Instructions
 

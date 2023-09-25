@@ -1,9 +1,9 @@
-# YouTube Downloader
+# YouTube Downloader - Descargador de YouTube
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-![yt-dlp](https://img.shields.io/badge/Powered%20by-yt--dlp-red)
-![PyInstaller](https://img.shields.io/badge/Built%20with-PyInstaller-success)
-![Python](https://img.shields.io/badge/Python-3.8%20%7C%203.9%20%7C%203.10-blue)
+[![yt-dlp](https://img.shields.io/badge/Powered%20by-yt--dlp-red)](https://github.com/yt-dlp/yt-dlp)
+[![PyInstaller](https://img.shields.io/badge/Built%20with-PyInstaller-success)](https://pypi.org/project/pyinstaller/)
+[![Python](https://img.shields.io/badge/Python-3.11-blue)](https://www.python.org/)
 
 ## English Instructions
 
@@ -29,8 +29,8 @@
 
 - Download YouTube videos and audio easily.
 - Descarga videos y audio de YouTube fácilmente.
-- High-quality downloads in your preferred format.
-- Descargas de alta calidad en tu formato preferido.
+- High-quality downloads.
+- Descargas de alta calidad.
 - User-friendly interface.
 - Interfaz fácil de usar.
 - Free and open-source.
